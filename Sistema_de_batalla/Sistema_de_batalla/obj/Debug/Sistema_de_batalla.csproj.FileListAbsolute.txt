@@ -1,0 +1,6 @@
+c:\users\tobi_\documents\visual studio 2017\Projects\Sistema_de_batalla\Sistema_de_batalla\bin\Debug\Sistema_de_batalla.exe.config
+c:\users\tobi_\documents\visual studio 2017\Projects\Sistema_de_batalla\Sistema_de_batalla\bin\Debug\Sistema_de_batalla.exe
+c:\users\tobi_\documents\visual studio 2017\Projects\Sistema_de_batalla\Sistema_de_batalla\bin\Debug\Sistema_de_batalla.pdb
+c:\users\tobi_\documents\visual studio 2017\Projects\Sistema_de_batalla\Sistema_de_batalla\obj\Debug\Sistema_de_batalla.csprojResolveAssemblyReference.cache
+c:\users\tobi_\documents\visual studio 2017\Projects\Sistema_de_batalla\Sistema_de_batalla\obj\Debug\Sistema_de_batalla.exe
+c:\users\tobi_\documents\visual studio 2017\Projects\Sistema_de_batalla\Sistema_de_batalla\obj\Debug\Sistema_de_batalla.pdb
