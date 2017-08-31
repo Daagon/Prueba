@@ -11,8 +11,8 @@ namespace Sistema_de_batalla
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            Jugador jugador = new Jugador(rnd.Next(1, 5), rnd.Next(50, 101));
-            Enemigo enemigo = new Enemigo(rnd.Next(1, 5), rnd.Next(50, 101));
+            Jugador jugador = new Jugador(rnd.Next(0, 4), rnd.Next(50, 101));
+            Enemigo enemigo = new Enemigo(rnd.Next(0, 4), rnd.Next(50, 101));
 
             Duelo duelo = new Duelo(jugador, enemigo);
 
